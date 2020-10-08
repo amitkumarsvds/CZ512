@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        setUi();
+        setUi();//For DEV branch
 
         mBtnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
