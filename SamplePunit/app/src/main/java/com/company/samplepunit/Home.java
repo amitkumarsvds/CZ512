@@ -10,6 +10,9 @@ public class Home extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.home_layout);
+
+
+        //TODO for dev branch pushhhhhhhhhh only 21 oct 2020
     }
 
     @Override
